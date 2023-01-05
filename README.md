@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fservignat" alt="fservignat" /></a> </p>
 
-- 🔭 I’m currently working on **finding a new job as Junior Web Dev**
+- 🔭 I’m currently working on **getting better at coding through daily reading and coding, and finding a new job as Junior Web Dev**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Le Wagon, Ruby, Rails**
+- 💬 Ask me about **Le Wagon, travels and astronomy**
 
-- 📫 How to reach me **GitHub, LinkedIn**
+- 📫 How to reach me: **GitHub, LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
