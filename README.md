@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fservignat" alt="fservignat" /></a> </p>
 
-🎓 I recently completed [Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp
+🎓 I recently completed [Le Wagon](https://www.lewagon.com)’s 24-weeks web development bootcamp
 
 🔭 I’m currently working on **getting better at coding through daily reading and practice, and finding a new job as Junior Web Dev**
 
