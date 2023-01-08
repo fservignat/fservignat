@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fservignat" alt="fservignat" /></a> </p>
 
-🎓 I recently completed Le Wagon’s 9-week web development bootcamp
+🎓 I recently completed [Le Wagon](https://www.lewagon.com)’s 9-week web development bootcamp
 
 🔭 I’m currently working on **getting better at coding through daily reading and practice, and finding a new job as Junior Web Dev**
 
@@ -11,9 +11,9 @@
 
 📫 Reach me at: francis.servignat@outlook.com
 
-**LinkedIn** Connect with me on LinkedIn
+![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) Connect with me on [LinkedIn](https://www.linkedin.com/in/francis-servignat)
 
-💼 See my portfolio and CV on Notion
+💼 See my portfolio and CV on [Notion](https://www.notion.so/Francis-Servignat-Portfolio-aed4419eddc54fc19ae6a5481b4dee8e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
