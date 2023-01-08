@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">I'm a Junior Web Developer, passionate by the tech industry !</h3>
+<h3 align="center">I'm an aspiring Junior Web Developer (Front or Full-Stack), passionate by the tech industry !</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fservignat" alt="fservignat" /></a> </p>
 
-- 🔭 I’m currently working on **getting better at coding through daily reading and practice, and finding a new job as Junior Web Dev**
+🎓 I recently completed Le Wagon’s 9-week web development bootcamp
 
-- 🌱 I’m currently learning **React**
+🔭 I’m currently working on **getting better at coding through daily reading and practice, and finding a new job as Junior Web Dev**
 
-- 💬 Ask me about **Le Wagon, travels and astronomy**
+🌱 I’d like to learn **React**
 
-- 📫 How to reach me: **GitHub, LinkedIn**
+📫 Reach me at: francis.servignat@outlook.com
+
+**LinkedIn** Connect with me on LinkedIn
+
+💼 See my portfolio and CV on Notion
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
