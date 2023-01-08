@@ -11,7 +11,7 @@
 
 📫 Reach me at: francis.servignat@outlook.com
 
-<a href="https://linkedin.com/in/francis-servignat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-servignat" height="30" width="40" /></a> Connect with me on [LinkedIn](https://www.linkedin.com/in/francis-servignat)
+:handshake: Connect with me on <a href="https://linkedin.com/in/francis-servignat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-servignat" height="30" width="40" /></a>
 
 💼 See my portfolio and CV on [Notion](https://www.notion.so/Francis-Servignat-Portfolio-aed4419eddc54fc19ae6a5481b4dee8e)
 
