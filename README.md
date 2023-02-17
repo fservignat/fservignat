@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fservignat" alt="fservignat" /></a> </p>
 
-🎓 I recently completed [Le Wagon](https://www.lewagon.com)’s 24-weeks web development bootcamp
+🎓 I completed [Le Wagon](https://www.lewagon.com)’s 24-weeks web development bootcamp in December 2022.
 
 🔭 I’m currently working on **getting better at coding through daily reading and practice, and finding a new job as Junior Web Dev**
 
-🌱 I’d like to learn **React**
+🌱 I’m learning **React** and **Redux**
 
 📫 Reach me at: francis.servignat@outlook.com
 
